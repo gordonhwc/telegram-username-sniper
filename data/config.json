@@ -1,13 +1,13 @@
 {
-    "telegram": {
-        "phone_number": "",
-        "api_id": 0,
-        "api_hash": ""
-    },
+  "telegram": {
+    "phone_number": "",
+    "api_id": 0,
+    "api_hash": ""
+  },
 
-    "claim_to": "channel",
-    "sleep_between_check": 100,
-    "usernames": [
-        "waquan"
-    ]
+  "claim_to": "channel",
+  "sleep_between_check": 100,
+  "usernames": [
+    "waquan"
+  ]
 }
